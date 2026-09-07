@@ -1,10 +1,11 @@
+function affiliateUrl(p){const u=p?.amazon?.directUrl||'#';try{const x=new URL(u,location.href);if(/(^|\.)amazon\.es$/i.test(x.hostname)){x.searchParams.set('tag','mepillo-21');return x.toString()}return u}catch(e){return u}}
 const products=window.MEPILLO_PRODUCTS||[];
 const grid=document.getElementById('productGrid');
 const resultCount=document.getElementById('resultCount');
 let currentCategory='Todos';let expanded=false;
 function productName(p){return p?.amazon?.catalog?.title||p?.editorial?.displayName||'Producto'}
 function imageUrl(p){return p?.amazon?.catalog?.imageUrl||''}
-function amazonUrl(p){return p?.amazon?.directUrl||'#'}
+function amazonUrl(p){return affiliateUrl(p)}
 function scoreNumber(p){return parseFloat(String(p?.editorial?.score||0).replace(',','.'))||0}
 function card(p){const title=productName(p);return `<article class="product-card"><a class="product-image" href="producto.html?p=${p.slug}" aria-label="Ver ficha de ${title}"><span class="product-badge">${p.badge}</span><img src="${imageUrl(p)}" alt="${title}" loading="lazy"></a><div class="product-body"><div class="product-meta"><span class="product-cat">${p.category}</span><span class="score">MePillo ${p.editorial.score}/10</span></div><h3><a href="producto.html?p=${p.slug}">${title}</a></h3><p>${p.editorial.summary}</p><div class="best-mini"><span>Ideal para</span>${p.editorial.bestFor}</div><div class="card-actions"><a class="buy-btn" href="${amazonUrl(p)}" target="_blank" rel="nofollow sponsored noopener">ME LO PILLO <span>→</span></a><a class="detail-link" href="producto.html?p=${p.slug}">Ver análisis completo</a></div></div></article>`}
 function renderProducts(query=''){if(!grid)return;const q=query.trim().toLowerCase();const filtered=products.filter(p=>(currentCategory==='Todos'||p.category===currentCategory)&&(!q||`${productName(p)} ${p.category} ${p.editorial.summary} ${p.editorial.bestFor} ${p.badge}`.toLowerCase().includes(q)));const visible=expanded?filtered:filtered.slice(0,12);grid.innerHTML=visible.map(card).join('');if(resultCount)resultCount.textContent=`${filtered.length} producto${filtered.length===1?'':'s'}`;if(!visible.length)grid.innerHTML='<div class="empty-state"><h3>No encontramos resultados</h3><p>Prueba otra palabra o cambia la categoría.</p></div>'}

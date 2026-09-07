@@ -1,3 +1,5 @@
-MEPILLO-V11-2026-09-06
-UTF8-CLEAN
-HUMAN-AFFILIATE-MESSAGE
+MePillo V12
+- Textos revisados y más naturales
+- Todos los enlaces de Amazon incluyen tag=mepillo-21
+- Protección adicional para futuros enlaces directos a Amazon.es
+- UTF-8 verificado

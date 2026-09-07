@@ -8,7 +8,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0GJTFY58R",
-      "directUrl": "https://amzn.to/46axzqM",
+      "directUrl": "https://www.amazon.es/dp/B0GJTFY58R?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Apple AirTag (2.ª generación)",
@@ -54,7 +54,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Apple AirTag",
       "score": "9,4",
-      "summary": "Una opción sencilla para localizar llaves, mochilas y otros objetos desde el iPhone.",
+      "summary": "Si sueles perder las llaves, la mochila o la maleta, el AirTag es de esas compras que se entienden en cuanto lo necesitas.",
       "why": [
         "Configuración muy sencilla con iPhone",
         "Útil para llaves, mochilas y equipaje",
@@ -81,7 +81,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0GHSJ67PG",
-      "directUrl": "https://amzn.to/4zVYpk5",
+      "directUrl": "https://www.amazon.es/dp/B0GHSJ67PG?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Amazon Fire TV Stick 4K",
@@ -127,7 +127,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Fire TV Stick 4K",
       "score": "9,3",
-      "summary": "Convierte una TV compatible en un centro de streaming con apps y contenido 4K.",
+      "summary": "Una forma sencilla de darle apps y streaming 4K a una tele compatible sin tener que cambiarla.",
       "why": [
         "Interfaz sencilla",
         "Gran catálogo de apps",
@@ -154,7 +154,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0GS9SH26N",
-      "directUrl": "https://amzn.to/4zZCHf0",
+      "directUrl": "https://www.amazon.es/dp/B0GS9SH26N?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "CyvenSmart Cargador USB-C rápido",
@@ -200,7 +200,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Cargador USB-C rápido",
       "score": "9,1",
-      "summary": "Un accesorio cotidiano para móvil, tablet y muchos portátiles compatibles.",
+      "summary": "Un cargador pequeño y práctico para llevar menos adaptadores si usas móvil, tablet o portátil con USB-C.",
       "why": [
         "Ocupa poco",
         "Sirve para varios dispositivos",
@@ -227,7 +227,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0DBZNC8DL",
-      "directUrl": "https://amzn.to/46ILh4b",
+      "directUrl": "https://www.amazon.es/dp/B0DBZNC8DL?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "JETech Protector de pantalla para iPhone 16 Pro",
@@ -273,13 +273,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Protector Pantalla para iPhone 16 Pro, 3 Unidades",
       "score": "8,9",
-      "summary": "Protección económica para uno de los dispositivos que más usamos.",
+      "summary": "Una protección barata para evitar arañazos y pequeños golpes en un iPhone 16 Pro.",
       "why": [
         "Barato frente al coste de una reparación",
         "Fácil de reemplazar",
         "Reduce arañazos y desgaste"
       ],
-      "bestFor": "Cualquier usuario de smartphone.",
+      "bestFor": "Quien tenga un iPhone 16 Pro y quiera proteger la pantalla sin gastar mucho.",
       "pros": [
         "Barato frente al coste de una reparación",
         "Fácil de reemplazar",
@@ -300,7 +300,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B01H6GUCCQ",
-      "directUrl": "https://amzn.to/46PzssZ",
+      "directUrl": "https://www.amazon.es/dp/B01H6GUCCQ?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "BENGOO G9000 Auriculares Gaming",
@@ -346,7 +346,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Auriculares gaming BENGOO G9000",
       "score": "8,9",
-      "summary": "Auriculares gaming económicos orientados a sesiones largas y chat de voz.",
+      "summary": "Unos auriculares gaming económicos con micrófono para quien quiere jugar y hablar sin gastar demasiado.",
       "why": [
         "Precio de entrada",
         "Micrófono integrado",
@@ -373,7 +373,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0DC6HZ3TW",
-      "directUrl": "https://amzn.to/46JhBUE",
+      "directUrl": "https://www.amazon.es/dp/B0DC6HZ3TW?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Lexar NM790 SSD NVMe",
@@ -419,7 +419,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "SSD NVMe para gaming",
       "score": "9,4",
-      "summary": "Más espacio y cargas rápidas para PC y consolas compatibles.",
+      "summary": "Una mejora que se nota si te falta espacio y quieres tiempos de carga rápidos en un equipo compatible.",
       "why": [
         "Aumenta capacidad",
         "Reduce tiempos de carga",
@@ -446,7 +446,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0D2LCRJW7",
-      "directUrl": "https://amzn.to/3V0ZWFn",
+      "directUrl": "https://www.amazon.es/dp/B0D2LCRJW7?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Amazon Basics Regleta con protección contra sobretensiones",
@@ -492,7 +492,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Regleta con protección",
       "score": "9,2",
-      "summary": "Permite conectar varios equipos y añadir protección frente a sobretensiones.",
+      "summary": "Una forma simple de ordenar varios enchufes y proteger mejor los dispositivos de una zona de trabajo o del salón.",
       "why": [
         "Organiza varios enchufes",
         "Añade una capa de protección",
@@ -519,7 +519,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0GDS935X9",
-      "directUrl": "https://amzn.to/4gHbB4Q",
+      "directUrl": "https://www.amazon.es/dp/B0GDS935X9?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "GoBeTree Vaso térmico de acero inoxidable",
@@ -565,7 +565,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Vaso térmico aislado",
       "score": "9,0",
-      "summary": "Mantiene bebidas frías o calientes durante horas y funciona bien para trabajo o viaje.",
+      "summary": "Un vaso reutilizable pensado para llevar café o bebidas frías durante horas en el trabajo, el coche o de viaje.",
       "why": [
         "Reutilizable",
         "Cómodo para coche y oficina",
@@ -592,7 +592,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0GX69NTQD",
-      "directUrl": "https://amzn.to/3UCxLg0",
+      "directUrl": "https://www.amazon.es/dp/B0GX69NTQD?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "ELECVIVA Máquina de hielo de encimera",
@@ -638,7 +638,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Máquina de hielo de encimera",
       "score": "8,7",
-      "summary": "Una opción práctica para cocinas, reuniones y espacios donde se consume mucho hielo.",
+      "summary": "Tiene sentido si en casa gastáis mucho hielo y no quieres estar pendiente de cubiteras o bolsas.",
       "why": [
         "No requiere instalación compleja",
         "Produce hielo rápidamente",
@@ -665,7 +665,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B0FBLJ58MT",
-      "directUrl": "https://amzn.to/4gT1fgX",
+      "directUrl": "https://www.amazon.es/dp/B0FBLJ58MT?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "VIGOEXPRESS DASHDOCK Soporte móvil para coche",
@@ -711,7 +711,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Soporte de móvil para coche",
       "score": "9,1",
-      "summary": "Mantiene el teléfono visible para navegación sin tenerlo en la mano.",
+      "summary": "Coloca el móvil a la vista para usar el GPS sin llevarlo en la mano mientras conduces.",
       "why": [
         "Mejora la visibilidad del GPS",
         "Libera las manos",
@@ -738,7 +738,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": "B015TKUPIC",
-      "directUrl": "https://amzn.to/466ubgD",
+      "directUrl": "https://www.amazon.es/dp/B015TKUPIC?tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "NOCO Boost Plus GB40 Arrancador portátil",
@@ -784,7 +784,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Arrancador portátil de batería",
       "score": "9,2",
-      "summary": "Una herramienta útil para llevar en el coche y resolver una batería descargada.",
+      "summary": "De esas cosas que esperas no necesitar, pero que pueden ahorrarte un buen problema si la batería del coche se queda sin carga.",
       "why": [
         "Puede sacarte de un apuro",
         "Portátil",
@@ -811,7 +811,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://amzn.to/4rhuMG5",
+      "directUrl": "https://www.amazon.es/s?k=Compresor+port%C3%A1til+para+neum%C3%A1ticos&tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -853,7 +853,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Compresor portátil para neumáticos",
       "score": "9,0",
-      "summary": "Permite revisar e inflar neumáticos sin depender de una gasolinera.",
+      "summary": "Te permite comprobar e inflar las ruedas en casa o durante un viaje sin buscar una gasolinera.",
       "why": [
         "Útil en carretera",
         "Compacto",
@@ -880,7 +880,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://amzn.to/4cuH6fP",
+      "directUrl": "https://www.amazon.es/s?k=Fitness+tracker&tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -922,7 +922,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Fitness tracker",
       "score": "8,9",
-      "summary": "Seguimiento de actividad diaria, entrenamientos y métricas básicas desde la muñeca.",
+      "summary": "Una pulsera sencilla para ver pasos, actividad y entrenamientos sin pagar lo que cuesta un smartwatch completo.",
       "why": [
         "Motiva a moverse",
         "Registra actividad",
@@ -949,7 +949,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://amzn.to/4csCpTN",
+      "directUrl": "https://www.amazon.es/s?k=Pack+de+fr%C3%ADo+reutilizable&tag=mepillo-21",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -991,7 +991,7 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Pack de frío reutilizable",
       "score": "8,7",
-      "summary": "Accesorio sencillo para recuperación y molestias después del entrenamiento.",
+      "summary": "Un accesorio básico y reutilizable para tener a mano después de entrenar o cuando quieras aplicar frío siguiendo sus instrucciones.",
       "why": [
         "Reutilizable",
         "Barato",
@@ -1054,13 +1054,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Power bank 20.000 mAh",
       "score": "9,0",
-      "summary": "Energía extra para viajes, universidad y días largos lejos de un enchufe.",
+      "summary": "Una batería externa grande para viajes, universidad o días en los que sabes que no vas a tener un enchufe cerca.",
       "why": [
         "Gran capacidad para el día a día",
         "Útil en viajes y desplazamientos",
         "Compatible con muchos dispositivos USB"
       ],
-      "bestFor": "personas que necesitan varias cargas de móvil fuera de casa.",
+      "bestFor": "Personas que pasan muchas horas fuera de casa y necesitan varias cargas de móvil.",
       "pros": [
         "Gran capacidad para el día a día",
         "Útil en viajes y desplazamientos",
@@ -1117,13 +1117,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Hub USB-C multipuerto",
       "score": "8,9",
-      "summary": "Amplía un portátil con HDMI, USB y lectores de tarjetas desde un solo puerto.",
+      "summary": "Muy útil si tu portátil tiene pocos puertos y necesitas conectar pantalla, USB o tarjetas desde un solo USB-C.",
       "why": [
         "Añade varios puertos de una vez",
         "Muy útil para monitores y periféricos",
         "Fácil de llevar en la mochila"
       ],
-      "bestFor": "portátiles con pocos puertos y escritorios compactos.",
+      "bestFor": "Quien usa un portátil con pocos puertos y conecta varios accesorios.",
       "pros": [
         "Añade varios puertos de una vez",
         "Muy útil para monitores y periféricos",
@@ -1180,13 +1180,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Teclado mecánico 75%",
       "score": "9,1",
-      "summary": "Formato compacto con teclas esenciales para jugar y trabajar sin ocupar media mesa.",
+      "summary": "Un teclado compacto que deja más espacio para el ratón sin renunciar a las teclas que más se usan.",
       "why": [
         "Ahorra espacio en el escritorio",
         "Formato muy versátil",
         "Ideal para gaming y productividad"
       ],
-      "bestFor": "setups compactos que buscan buena sensación de escritura.",
+      "bestFor": "Quien quiere un teclado compacto para jugar y trabajar.",
       "pros": [
         "Ahorra espacio en el escritorio",
         "Formato muy versátil",
@@ -1243,13 +1243,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Ratón gaming inalámbrico",
       "score": "9,0",
-      "summary": "Libertad de movimiento y un escritorio más limpio para jugar o trabajar.",
+      "summary": "Buena opción si quieres jugar sin cable y mantener el escritorio más limpio.",
       "why": [
         "Escritorio más limpio",
         "Cómodo para sesiones largas",
         "Buena opción para portátil"
       ],
-      "bestFor": "jugadores que valoran ligereza y libertad de movimiento.",
+      "bestFor": "Jugadores que prefieren un ratón inalámbrico y ligero.",
       "pros": [
         "Escritorio más limpio",
         "Cómodo para sesiones largas",
@@ -1306,13 +1306,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Soporte vertical para consola",
       "score": "8,6",
-      "summary": "Una solución sencilla para ordenar consola, mandos y accesorios en el setup.",
+      "summary": "Una base para tener consola, mandos y accesorios mejor colocados y aprovechar mejor el espacio del setup.",
       "why": [
         "Mejora el orden visual",
         "Puede reunir varios accesorios",
         "Aprovecha mejor el espacio vertical"
       ],
-      "bestFor": "quien quiere organizar mejor su zona de juego.",
+      "bestFor": "Quien quiere ordenar mejor su zona de juego.",
       "pros": [
         "Mejora el orden visual",
         "Puede reunir varios accesorios",
@@ -1369,13 +1369,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Tira LED RGB para setup",
       "score": "8,7",
-      "summary": "Iluminación ambiental sencilla para escritorio, TV o zona gaming.",
+      "summary": "Una mejora barata para cambiar el ambiente del escritorio, la TV o la zona de juego sin complicarte demasiado.",
       "why": [
         "Cambia mucho el ambiente visual",
         "Instalación sencilla",
         "Muchas opciones de color"
       ],
-      "bestFor": "quien quiere mejorar el aspecto del setup con poco presupuesto.",
+      "bestFor": "Quien quiere darle más ambiente al setup con poco presupuesto.",
       "pros": [
         "Cambia mucho el ambiente visual",
         "Instalación sencilla",
@@ -1432,13 +1432,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Robot aspirador",
       "score": "9,2",
-      "summary": "Automatiza parte de la limpieza diaria y ayuda a mantener el suelo más constante.",
+      "summary": "Ayuda a mantener el suelo limpio entre limpiezas más a fondo y puede quitar bastante trabajo del día a día.",
       "why": [
         "Ahorra tiempo entre limpiezas profundas",
         "Funciona bien como mantenimiento diario",
         "Programable en muchos modelos"
       ],
-      "bestFor": "hogares que quieren reducir la limpieza de mantenimiento.",
+      "bestFor": "Hogares que quieren reducir la limpieza de mantenimiento.",
       "pros": [
         "Ahorra tiempo entre limpiezas profundas",
         "Funciona bien como mantenimiento diario",
@@ -1495,13 +1495,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Freidora de aire",
       "score": "9,3",
-      "summary": "Cocina rápida para cenas, snacks y recetas sencillas con menos aceite.",
+      "summary": "Práctica para cenas rápidas, snacks y recetas sencillas cuando quieres cocinar con poco aceite y sin ensuciar demasiado.",
       "why": [
         "Rápida y fácil de usar",
         "Muy versátil para el día a día",
         "Limpieza sencilla en muchos modelos"
       ],
-      "bestFor": "quien busca cocinar rápido y con poca complicación.",
+      "bestFor": "Quien quiere cocinar rápido y sin complicarse demasiado.",
       "pros": [
         "Rápida y fácil de usar",
         "Muy versátil para el día a día",
@@ -1558,13 +1558,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Envasadora al vacío",
       "score": "8,8",
-      "summary": "Ayuda a organizar alimentos, congelación y conservación de forma práctica.",
+      "summary": "Útil si compras comida por lotes, congelas a menudo o preparas varias comidas con antelación.",
       "why": [
         "Ayuda a conservar mejor alimentos",
         "Útil para congelación y meal prep",
         "Reduce espacio en algunos alimentos"
       ],
-      "bestFor": "quien compra por lotes o prepara comida con antelación.",
+      "bestFor": "Quien compra por lotes o prepara comida con antelación.",
       "pros": [
         "Ayuda a conservar mejor alimentos",
         "Útil para congelación y meal prep",
@@ -1621,13 +1621,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Organizador de maletero",
       "score": "8,9",
-      "summary": "Mantiene bolsas, herramientas y accesorios en su sitio durante los trayectos.",
+      "summary": "Evita que bolsas, herramientas y otros objetos vayan dando vueltas por el maletero mientras conduces.",
       "why": [
         "Evita que los objetos se muevan",
         "Se pliega cuando no se usa",
         "Muy útil para compra y herramientas"
       ],
-      "bestFor": "quien lleva objetos sueltos habitualmente en el coche.",
+      "bestFor": "Quien suele llevar bolsas, herramientas u otros objetos sueltos en el coche.",
       "pros": [
         "Evita que los objetos se muevan",
         "Se pliega cuando no se usa",
@@ -1684,13 +1684,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Cargador USB-C para coche",
       "score": "9,0",
-      "summary": "Carga móvil y accesorios durante viajes sin depender de la batería.",
+      "summary": "Un accesorio pequeño que viene muy bien para mantener el móvil cargado cuando usas GPS o haces viajes largos.",
       "why": [
         "Ocupa muy poco",
         "Útil para navegación y viajes",
         "Puede cargar varios dispositivos según modelo"
       ],
-      "bestFor": "conductores que usan navegación o móvil durante trayectos largos.",
+      "bestFor": "Conductores que usan mucho el móvil como GPS o hacen viajes largos.",
       "pros": [
         "Ocupa muy poco",
         "Útil para navegación y viajes",
@@ -1747,13 +1747,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Medidor digital de presión",
       "score": "8,8",
-      "summary": "Una comprobación rápida para vigilar la presión de los neumáticos en casa.",
+      "summary": "Te permite revisar la presión de las ruedas en casa en pocos segundos antes de salir de viaje.",
       "why": [
         "Pequeño y fácil de guardar",
         "Lectura rápida",
         "Útil antes de viajes largos"
       ],
-      "bestFor": "conductores que quieren revisar presión sin depender de una gasolinera.",
+      "bestFor": "Conductores que quieren revisar la presión de las ruedas en casa.",
       "pros": [
         "Pequeño y fácil de guardar",
         "Lectura rápida",
@@ -1810,13 +1810,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Bandas elásticas de entrenamiento",
       "score": "9,0",
-      "summary": "Entrenamiento portátil para fuerza, movilidad y activación en casi cualquier lugar.",
+      "summary": "Ocupan casi nada y sirven para fuerza, movilidad y calentamiento tanto en casa como cuando viajas.",
       "why": [
         "Ocupan poquísimo",
         "Muchos ejercicios posibles",
         "Fáciles de llevar de viaje"
       ],
-      "bestFor": "entrenamientos en casa, movilidad y calentamiento.",
+      "bestFor": "Entrenamientos en casa, movilidad, calentamiento y viajes.",
       "pros": [
         "Ocupan poquísimo",
         "Muchos ejercicios posibles",
@@ -1873,13 +1873,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Rodillo de espuma",
       "score": "8,8",
-      "summary": "Complemento sencillo para movilidad y recuperación tras entrenamientos.",
+      "summary": "Un rodillo sencillo para trabajar movilidad y descarga muscular en casa después de entrenar.",
       "why": [
         "Fácil de usar en casa",
         "Útil para movilidad",
         "No necesita batería ni accesorios"
       ],
-      "bestFor": "personas que quieren trabajar movilidad y descarga muscular.",
+      "bestFor": "Personas que quieren trabajar movilidad y descarga muscular en casa.",
       "pros": [
         "Fácil de usar en casa",
         "Útil para movilidad",
@@ -1936,13 +1936,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Botella deportiva reutilizable",
       "score": "8,7",
-      "summary": "Una forma simple de llevar agua al gimnasio, pista o universidad.",
+      "summary": "Una botella reutilizable para llevar agua al gimnasio, a la pista, a clase o al trabajo sin depender de botellas desechables.",
       "why": [
         "Reutilizable",
         "Fácil de transportar",
         "Útil dentro y fuera del gimnasio"
       ],
-      "bestFor": "quien quiere una botella resistente para entrenar o estudiar.",
+      "bestFor": "Quien quiere una botella resistente para entrenar, estudiar o trabajar.",
       "pros": [
         "Reutilizable",
         "Fácil de transportar",
@@ -1999,13 +1999,13 @@ window.MEPILLO_PRODUCTS = [
     "editorial": {
       "displayName": "Báscula inteligente",
       "score": "8,9",
-      "summary": "Registra el peso y tendencias desde el móvil para tener una referencia constante.",
+      "summary": "Guarda el peso en el móvil y te permite ver la evolución con el tiempo sin apuntarlo a mano.",
       "why": [
         "Historial cómodo en app",
         "Fácil de usar",
         "Útil para observar tendencias"
       ],
-      "bestFor": "quien quiere registrar tendencias de peso con comodidad.",
+      "bestFor": "Quien quiere seguir la evolución de su peso desde el móvil.",
       "pros": [
         "Historial cómodo en app",
         "Fácil de usar",

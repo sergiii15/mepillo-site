@@ -811,7 +811,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=Compresor+port%C3%A1til+para+neum%C3%A1ticos&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4ibrul5",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -880,7 +880,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=Fitness+tracker&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4h0vNh0",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -949,7 +949,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=Pack+de+fr%C3%ADo+reutilizable&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4cwZYec",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": null,
@@ -1018,7 +1018,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=power+bank+20000mah+usb+c+carga+rapida&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4x9P2ue",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Power bank 20.000 mAh",
@@ -1081,7 +1081,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=hub+usb+c+multipuerto+hdmi&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4gDVxka",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Hub USB-C multipuerto",
@@ -1144,7 +1144,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=teclado+mecanico+75+gaming&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4xgjZxd",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Teclado mecánico 75%",
@@ -1207,7 +1207,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=raton+gaming+inalambrico&tag=mepillo-21",
+      "directUrl": "https://amzn.to/3UG9wgP",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Ratón gaming inalámbrico",
@@ -1270,7 +1270,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=soporte+vertical+ps5+mandos&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4x8YA8U",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Soporte vertical para consola",
@@ -1333,7 +1333,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=tira+led+rgb+gaming+usb&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4A4k6hW",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Tira LED RGB para setup",
@@ -1396,7 +1396,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=robot+aspirador+wifi&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4yhGqTo",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Robot aspirador",
@@ -1459,7 +1459,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=freidora+de+aire+6+litros&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4r0ajFl",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Freidora de aire",
@@ -1522,7 +1522,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=envasadora+al+vacio+alimentos&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4yj4jdi",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Envasadora al vacío",
@@ -1585,7 +1585,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=organizador+maletero+coche+plegable&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4yu6vyR",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Organizador de maletero",
@@ -1648,7 +1648,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=cargador+coche+usb+c+carga+rapida&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4xJaJCL",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Cargador USB-C para coche",
@@ -1711,7 +1711,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=medidor+presion+neumaticos+digital&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4heIOEI",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Medidor digital de presión",
@@ -1774,7 +1774,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=bandas+elasticas+resistencia+fitness&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4x9PgBA",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Bandas elásticas de entrenamiento",
@@ -1837,7 +1837,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=foam+roller+rodillo+masaje+muscular&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4qVR1Rs",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Rodillo de espuma",
@@ -1900,7 +1900,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=botella+deportiva+gimnasio+1+litro&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4gDYEZt",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Botella deportiva reutilizable",
@@ -1963,7 +1963,7 @@ window.MEPILLO_PRODUCTS = [
       "marketplace": "amazon.es",
       "associateTag": "mepillo-21",
       "asin": null,
-      "directUrl": "https://www.amazon.es/s?k=bascula+inteligente+bluetooth&tag=mepillo-21",
+      "directUrl": "https://amzn.to/4qUl4Jf",
       "catalog": {
         "source": "mepillo-editorial-seed",
         "title": "Báscula inteligente",

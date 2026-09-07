@@ -1,0 +1,34 @@
+MEPILLO - AUTOMATIZACION
+
+Pon estos 4 archivos en:
+C:\Users\sergi\Desktop\mepillo-site\
+
+A partir de ahora:
+
+1) Cuando ChatGPT te prepare una nueva actualizacion:
+   - Descarga el ZIP.
+   - NO lo descomprimas.
+   - Dejelo en la carpeta Descargas.
+   - El ZIP debe llamarse "mepillo-public-...zip".
+
+2) Haz doble clic en:
+   ACTUALIZAR-MEPILLO.bat
+
+El actualizador:
+- busca automaticamente el ZIP mas reciente en Descargas,
+- crea una copia de seguridad de tu carpeta public,
+- descomprime la actualizacion,
+- reemplaza automaticamente public,
+- y te pregunta si quieres abrir la web local.
+
+Para probar la web sin actualizar:
+DOBLE CLIC -> VER-MEPILLO.bat
+
+Para publicarla en Firebase:
+DOBLE CLIC -> PUBLICAR-MEPILLO.bat
+
+Carpeta fija del proyecto:
+C:\Users\sergi\Desktop\mepillo-site
+
+IMPORTANTE:
+No borres firebase.json ni .firebaserc.

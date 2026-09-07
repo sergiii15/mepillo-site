@@ -10,10 +10,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0GJTFY58R",
       "directUrl": "https://amzn.to/46axzqM",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "Apple AirTag (2.ª generación)",
         "brand": "Apple",
-        "imageUrl": null,
+        "imageUrl": "assets/products/apple-airtag.svg",
         "features": [
           "Localizador compacto para objetos personales",
           "Integración con la red Buscar de Apple",
@@ -83,10 +83,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0GHSJ67PG",
       "directUrl": "https://amzn.to/4zVYpk5",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "Amazon Fire TV Stick 4K",
         "brand": "Amazon",
-        "imageUrl": null,
+        "imageUrl": "assets/products/fire-tv-stick-4k.svg",
         "features": [
           "Reproductor multimedia compacto para el televisor",
           "Compatible con contenido 4K cuando la TV y el contenido lo permiten",
@@ -156,10 +156,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0GS9SH26N",
       "directUrl": "https://amzn.to/4zZCHf0",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "CyvenSmart Cargador USB-C rápido",
         "brand": "CyvenSmart",
-        "imageUrl": null,
+        "imageUrl": "assets/products/cargador-usb-c.svg",
         "features": [
           "Cargador de pared con conexión USB-C",
           "Pensado para carga rápida de dispositivos compatibles",
@@ -229,10 +229,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0DBZNC8DL",
       "directUrl": "https://amzn.to/46ILh4b",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "JETech Protector de pantalla para iPhone 16 Pro",
         "brand": "JETech",
-        "imageUrl": null,
+        "imageUrl": "assets/products/protector-pantalla.svg",
         "features": [
           "Pack de 3 protectores de pantalla",
           "Diseñado específicamente para iPhone 16 Pro",
@@ -302,10 +302,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B01H6GUCCQ",
       "directUrl": "https://amzn.to/46PzssZ",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "BENGOO G9000 Auriculares Gaming",
         "brand": "BENGOO",
-        "imageUrl": null,
+        "imageUrl": "assets/products/bengoo-g9000.svg",
         "features": [
           "Auriculares orientados a gaming",
           "Micrófono integrado para chat de voz",
@@ -375,10 +375,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0DC6HZ3TW",
       "directUrl": "https://amzn.to/46JhBUE",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "Lexar NM790 SSD NVMe",
         "brand": "Lexar",
-        "imageUrl": null,
+        "imageUrl": "assets/products/ssd-nvme-gaming.svg",
         "features": [
           "Unidad SSD interna en formato NVMe",
           "Pensada para ampliar almacenamiento de alta velocidad",
@@ -448,10 +448,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0D2LCRJW7",
       "directUrl": "https://amzn.to/3V0ZWFn",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "Amazon Basics Regleta con protección contra sobretensiones",
         "brand": "Amazon Basics",
-        "imageUrl": null,
+        "imageUrl": "assets/products/regleta-proteccion.svg",
         "features": [
           "Regleta para conectar varios dispositivos",
           "Incluye protección frente a sobretensiones",
@@ -521,10 +521,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0GDS935X9",
       "directUrl": "https://amzn.to/4gHbB4Q",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "GoBeTree Vaso térmico de acero inoxidable",
         "brand": "GoBeTree",
-        "imageUrl": null,
+        "imageUrl": "assets/products/vaso-termico.svg",
         "features": [
           "Vaso térmico reutilizable",
           "Construcción en acero inoxidable",
@@ -594,10 +594,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0GX69NTQD",
       "directUrl": "https://amzn.to/3UCxLg0",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "ELECVIVA Máquina de hielo de encimera",
         "brand": "ELECVIVA",
-        "imageUrl": null,
+        "imageUrl": "assets/products/maquina-hielo.svg",
         "features": [
           "Máquina de hielo compacta para encimera",
           "No requiere una instalación compleja permanente",
@@ -667,10 +667,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B0FBLJ58MT",
       "directUrl": "https://amzn.to/4gT1fgX",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "VIGOEXPRESS DASHDOCK Soporte móvil para coche",
         "brand": "VIGOEXPRESS",
-        "imageUrl": null,
+        "imageUrl": "assets/products/soporte-movil-coche.svg",
         "features": [
           "Soporte para mantener el móvil visible durante la conducción",
           "Pensado para utilizar navegación GPS de forma más cómoda",
@@ -740,10 +740,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": "B015TKUPIC",
       "directUrl": "https://amzn.to/466ubgD",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": "NOCO Boost Plus GB40 Arrancador portátil",
         "brand": "NOCO",
-        "imageUrl": null,
+        "imageUrl": "assets/products/arrancador-bateria.svg",
         "features": [
           "Arrancador portátil para baterías de vehículo",
           "Diseñado como ayuda de emergencia ante una batería descargada",
@@ -813,10 +813,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": null,
       "directUrl": "https://amzn.to/4rhuMG5",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": null,
         "brand": null,
-        "imageUrl": null,
+        "imageUrl": "assets/products/compresor-neumaticos.svg",
         "features": [
           "Compresor portátil para inflado de neumáticos",
           "Pensado para llevarlo en el vehículo",
@@ -882,10 +882,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": null,
       "directUrl": "https://amzn.to/4cuH6fP",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": null,
         "brand": null,
-        "imageUrl": null,
+        "imageUrl": "assets/products/fitness-tracker.svg",
         "features": [
           "Dispositivo de muñeca orientado al seguimiento de actividad",
           "Permite consultar métricas básicas desde la muñeca",
@@ -951,10 +951,10 @@ window.MEPILLO_PRODUCTS = [
       "asin": null,
       "directUrl": "https://amzn.to/4csCpTN",
       "catalog": {
-        "source": "mepillo-seed",
+        "source": "mepillo-editorial-seed",
         "title": null,
         "brand": null,
-        "imageUrl": null,
+        "imageUrl": "assets/products/pack-frio.svg",
         "features": [
           "Pack de frío reutilizable",
           "Pensado para conservarse en frío según las instrucciones del fabricante",
@@ -1006,6 +1006,1014 @@ window.MEPILLO_PRODUCTS = [
       "cons": [
         "Debe usarse siguiendo las instrucciones del fabricante",
         "Evita contacto directo prolongado con la piel"
+      ]
+    }
+  },
+  {
+    "slug": "power-bank-20000",
+    "category": "Tecnología",
+    "icon": "🔋",
+    "badge": "Muy práctico",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=power+bank+20000mah+usb+c+carga+rapida&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Power bank 20.000 mAh",
+        "brand": null,
+        "imageUrl": "assets/products/power-bank-20000.svg",
+        "features": [
+          "Gran capacidad para el día a día",
+          "Útil en viajes y desplazamientos",
+          "Compatible con muchos dispositivos USB",
+          "Selección pensada para personas que necesitan varias cargas de móvil fuera de casa."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Power bank 20.000 mAh"
+          },
+          {
+            "label": "Categoría",
+            "value": "Tecnología"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "personas que necesitan varias cargas de móvil fuera de casa."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Power bank 20.000 mAh",
+      "score": "9,0",
+      "summary": "Energía extra para viajes, universidad y días largos lejos de un enchufe.",
+      "why": [
+        "Gran capacidad para el día a día",
+        "Útil en viajes y desplazamientos",
+        "Compatible con muchos dispositivos USB"
+      ],
+      "bestFor": "personas que necesitan varias cargas de móvil fuera de casa.",
+      "pros": [
+        "Gran capacidad para el día a día",
+        "Útil en viajes y desplazamientos",
+        "Compatible con muchos dispositivos USB"
+      ],
+      "cons": [
+        "El peso aumenta con la capacidad",
+        "La carga rápida depende del modelo y cable"
+      ]
+    }
+  },
+  {
+    "slug": "hub-usb-c",
+    "category": "Tecnología",
+    "icon": "◫",
+    "badge": "Setup limpio",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=hub+usb+c+multipuerto+hdmi&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Hub USB-C multipuerto",
+        "brand": null,
+        "imageUrl": "assets/products/hub-usb-c.svg",
+        "features": [
+          "Añade varios puertos de una vez",
+          "Muy útil para monitores y periféricos",
+          "Fácil de llevar en la mochila",
+          "Selección pensada para portátiles con pocos puertos y escritorios compactos."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Hub USB-C multipuerto"
+          },
+          {
+            "label": "Categoría",
+            "value": "Tecnología"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "portátiles con pocos puertos y escritorios compactos."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Hub USB-C multipuerto",
+      "score": "8,9",
+      "summary": "Amplía un portátil con HDMI, USB y lectores de tarjetas desde un solo puerto.",
+      "why": [
+        "Añade varios puertos de una vez",
+        "Muy útil para monitores y periféricos",
+        "Fácil de llevar en la mochila"
+      ],
+      "bestFor": "portátiles con pocos puertos y escritorios compactos.",
+      "pros": [
+        "Añade varios puertos de una vez",
+        "Muy útil para monitores y periféricos",
+        "Fácil de llevar en la mochila"
+      ],
+      "cons": [
+        "Comprueba compatibilidad de vídeo",
+        "No todos soportan la misma potencia de carga"
+      ]
+    }
+  },
+  {
+    "slug": "teclado-mecanico",
+    "category": "Gaming",
+    "icon": "⌨",
+    "badge": "Setup favorito",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=teclado+mecanico+75+gaming&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Teclado mecánico 75%",
+        "brand": null,
+        "imageUrl": "assets/products/teclado-mecanico.svg",
+        "features": [
+          "Ahorra espacio en el escritorio",
+          "Formato muy versátil",
+          "Ideal para gaming y productividad",
+          "Selección pensada para setups compactos que buscan buena sensación de escritura."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Teclado mecánico 75%"
+          },
+          {
+            "label": "Categoría",
+            "value": "Gaming"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "setups compactos que buscan buena sensación de escritura."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Teclado mecánico 75%",
+      "score": "9,1",
+      "summary": "Formato compacto con teclas esenciales para jugar y trabajar sin ocupar media mesa.",
+      "why": [
+        "Ahorra espacio en el escritorio",
+        "Formato muy versátil",
+        "Ideal para gaming y productividad"
+      ],
+      "bestFor": "setups compactos que buscan buena sensación de escritura.",
+      "pros": [
+        "Ahorra espacio en el escritorio",
+        "Formato muy versátil",
+        "Ideal para gaming y productividad"
+      ],
+      "cons": [
+        "El sonido depende de los switches",
+        "Puede requerir adaptación si vienes de tamaño completo"
+      ]
+    }
+  },
+  {
+    "slug": "raton-gaming",
+    "category": "Gaming",
+    "icon": "🖱",
+    "badge": "Sin cables",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=raton+gaming+inalambrico&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Ratón gaming inalámbrico",
+        "brand": null,
+        "imageUrl": "assets/products/raton-gaming.svg",
+        "features": [
+          "Escritorio más limpio",
+          "Cómodo para sesiones largas",
+          "Buena opción para portátil",
+          "Selección pensada para jugadores que valoran ligereza y libertad de movimiento."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Ratón gaming inalámbrico"
+          },
+          {
+            "label": "Categoría",
+            "value": "Gaming"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "jugadores que valoran ligereza y libertad de movimiento."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Ratón gaming inalámbrico",
+      "score": "9,0",
+      "summary": "Libertad de movimiento y un escritorio más limpio para jugar o trabajar.",
+      "why": [
+        "Escritorio más limpio",
+        "Cómodo para sesiones largas",
+        "Buena opción para portátil"
+      ],
+      "bestFor": "jugadores que valoran ligereza y libertad de movimiento.",
+      "pros": [
+        "Escritorio más limpio",
+        "Cómodo para sesiones largas",
+        "Buena opción para portátil"
+      ],
+      "cons": [
+        "Hay que controlar la batería",
+        "La ergonomía depende de la mano"
+      ]
+    }
+  },
+  {
+    "slug": "soporte-ps5",
+    "category": "Gaming",
+    "icon": "🎮",
+    "badge": "Orden gaming",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=soporte+vertical+ps5+mandos&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Soporte vertical para consola",
+        "brand": null,
+        "imageUrl": "assets/products/soporte-ps5.svg",
+        "features": [
+          "Mejora el orden visual",
+          "Puede reunir varios accesorios",
+          "Aprovecha mejor el espacio vertical",
+          "Selección pensada para quien quiere organizar mejor su zona de juego."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Soporte vertical para consola"
+          },
+          {
+            "label": "Categoría",
+            "value": "Gaming"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien quiere organizar mejor su zona de juego."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Soporte vertical para consola",
+      "score": "8,6",
+      "summary": "Una solución sencilla para ordenar consola, mandos y accesorios en el setup.",
+      "why": [
+        "Mejora el orden visual",
+        "Puede reunir varios accesorios",
+        "Aprovecha mejor el espacio vertical"
+      ],
+      "bestFor": "quien quiere organizar mejor su zona de juego.",
+      "pros": [
+        "Mejora el orden visual",
+        "Puede reunir varios accesorios",
+        "Aprovecha mejor el espacio vertical"
+      ],
+      "cons": [
+        "Comprueba compatibilidad con tu modelo",
+        "Algunas bases añaden funciones innecesarias"
+      ]
+    }
+  },
+  {
+    "slug": "tira-led-rgb",
+    "category": "Gaming",
+    "icon": "✦",
+    "badge": "Ambiente",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=tira+led+rgb+gaming+usb&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Tira LED RGB para setup",
+        "brand": null,
+        "imageUrl": "assets/products/tira-led-rgb.svg",
+        "features": [
+          "Cambia mucho el ambiente visual",
+          "Instalación sencilla",
+          "Muchas opciones de color",
+          "Selección pensada para quien quiere mejorar el aspecto del setup con poco presupuesto."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Tira LED RGB para setup"
+          },
+          {
+            "label": "Categoría",
+            "value": "Gaming"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien quiere mejorar el aspecto del setup con poco presupuesto."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Tira LED RGB para setup",
+      "score": "8,7",
+      "summary": "Iluminación ambiental sencilla para escritorio, TV o zona gaming.",
+      "why": [
+        "Cambia mucho el ambiente visual",
+        "Instalación sencilla",
+        "Muchas opciones de color"
+      ],
+      "bestFor": "quien quiere mejorar el aspecto del setup con poco presupuesto.",
+      "pros": [
+        "Cambia mucho el ambiente visual",
+        "Instalación sencilla",
+        "Muchas opciones de color"
+      ],
+      "cons": [
+        "El adhesivo varía según superficie",
+        "Evita reflejos directos en la pantalla"
+      ]
+    }
+  },
+  {
+    "slug": "robot-aspirador",
+    "category": "Hogar",
+    "icon": "◉",
+    "badge": "Ahorra tiempo",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=robot+aspirador+wifi&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Robot aspirador",
+        "brand": null,
+        "imageUrl": "assets/products/robot-aspirador.svg",
+        "features": [
+          "Ahorra tiempo entre limpiezas profundas",
+          "Funciona bien como mantenimiento diario",
+          "Programable en muchos modelos",
+          "Selección pensada para hogares que quieren reducir la limpieza de mantenimiento."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Robot aspirador"
+          },
+          {
+            "label": "Categoría",
+            "value": "Hogar"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "hogares que quieren reducir la limpieza de mantenimiento."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Robot aspirador",
+      "score": "9,2",
+      "summary": "Automatiza parte de la limpieza diaria y ayuda a mantener el suelo más constante.",
+      "why": [
+        "Ahorra tiempo entre limpiezas profundas",
+        "Funciona bien como mantenimiento diario",
+        "Programable en muchos modelos"
+      ],
+      "bestFor": "hogares que quieren reducir la limpieza de mantenimiento.",
+      "pros": [
+        "Ahorra tiempo entre limpiezas profundas",
+        "Funciona bien como mantenimiento diario",
+        "Programable en muchos modelos"
+      ],
+      "cons": [
+        "No sustituye una limpieza profunda",
+        "Hay que preparar cables y obstáculos"
+      ]
+    }
+  },
+  {
+    "slug": "freidora-aire",
+    "category": "Hogar",
+    "icon": "🍟",
+    "badge": "Muy popular",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=freidora+de+aire+6+litros&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Freidora de aire",
+        "brand": null,
+        "imageUrl": "assets/products/freidora-aire.svg",
+        "features": [
+          "Rápida y fácil de usar",
+          "Muy versátil para el día a día",
+          "Limpieza sencilla en muchos modelos",
+          "Selección pensada para quien busca cocinar rápido y con poca complicación."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Freidora de aire"
+          },
+          {
+            "label": "Categoría",
+            "value": "Hogar"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien busca cocinar rápido y con poca complicación."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Freidora de aire",
+      "score": "9,3",
+      "summary": "Cocina rápida para cenas, snacks y recetas sencillas con menos aceite.",
+      "why": [
+        "Rápida y fácil de usar",
+        "Muy versátil para el día a día",
+        "Limpieza sencilla en muchos modelos"
+      ],
+      "bestFor": "quien busca cocinar rápido y con poca complicación.",
+      "pros": [
+        "Rápida y fácil de usar",
+        "Muy versátil para el día a día",
+        "Limpieza sencilla en muchos modelos"
+      ],
+      "cons": [
+        "Ocupa espacio en la encimera",
+        "La capacidad debe elegirse según el hogar"
+      ]
+    }
+  },
+  {
+    "slug": "envasadora-vacio",
+    "category": "Hogar",
+    "icon": "▤",
+    "badge": "Cocina útil",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=envasadora+al+vacio+alimentos&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Envasadora al vacío",
+        "brand": null,
+        "imageUrl": "assets/products/envasadora-vacio.svg",
+        "features": [
+          "Ayuda a conservar mejor alimentos",
+          "Útil para congelación y meal prep",
+          "Reduce espacio en algunos alimentos",
+          "Selección pensada para quien compra por lotes o prepara comida con antelación."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Envasadora al vacío"
+          },
+          {
+            "label": "Categoría",
+            "value": "Hogar"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien compra por lotes o prepara comida con antelación."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Envasadora al vacío",
+      "score": "8,8",
+      "summary": "Ayuda a organizar alimentos, congelación y conservación de forma práctica.",
+      "why": [
+        "Ayuda a conservar mejor alimentos",
+        "Útil para congelación y meal prep",
+        "Reduce espacio en algunos alimentos"
+      ],
+      "bestFor": "quien compra por lotes o prepara comida con antelación.",
+      "pros": [
+        "Ayuda a conservar mejor alimentos",
+        "Útil para congelación y meal prep",
+        "Reduce espacio en algunos alimentos"
+      ],
+      "cons": [
+        "Necesita bolsas compatibles",
+        "No todos los alimentos se envasan igual"
+      ]
+    }
+  },
+  {
+    "slug": "organizador-maletero",
+    "category": "Motor",
+    "icon": "▣",
+    "badge": "Coche ordenado",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=organizador+maletero+coche+plegable&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Organizador de maletero",
+        "brand": null,
+        "imageUrl": "assets/products/organizador-maletero.svg",
+        "features": [
+          "Evita que los objetos se muevan",
+          "Se pliega cuando no se usa",
+          "Muy útil para compra y herramientas",
+          "Selección pensada para quien lleva objetos sueltos habitualmente en el coche."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Organizador de maletero"
+          },
+          {
+            "label": "Categoría",
+            "value": "Motor"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien lleva objetos sueltos habitualmente en el coche."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Organizador de maletero",
+      "score": "8,9",
+      "summary": "Mantiene bolsas, herramientas y accesorios en su sitio durante los trayectos.",
+      "why": [
+        "Evita que los objetos se muevan",
+        "Se pliega cuando no se usa",
+        "Muy útil para compra y herramientas"
+      ],
+      "bestFor": "quien lleva objetos sueltos habitualmente en el coche.",
+      "pros": [
+        "Evita que los objetos se muevan",
+        "Se pliega cuando no se usa",
+        "Muy útil para compra y herramientas"
+      ],
+      "cons": [
+        "Comprueba medidas del maletero",
+        "Los modelos blandos soportan menos peso"
+      ]
+    }
+  },
+  {
+    "slug": "cargador-coche-usbc",
+    "category": "Motor",
+    "icon": "⚡",
+    "badge": "Viaje esencial",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=cargador+coche+usb+c+carga+rapida&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Cargador USB-C para coche",
+        "brand": null,
+        "imageUrl": "assets/products/cargador-coche-usbc.svg",
+        "features": [
+          "Ocupa muy poco",
+          "Útil para navegación y viajes",
+          "Puede cargar varios dispositivos según modelo",
+          "Selección pensada para conductores que usan navegación o móvil durante trayectos largos."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Cargador USB-C para coche"
+          },
+          {
+            "label": "Categoría",
+            "value": "Motor"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "conductores que usan navegación o móvil durante trayectos largos."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Cargador USB-C para coche",
+      "score": "9,0",
+      "summary": "Carga móvil y accesorios durante viajes sin depender de la batería.",
+      "why": [
+        "Ocupa muy poco",
+        "Útil para navegación y viajes",
+        "Puede cargar varios dispositivos según modelo"
+      ],
+      "bestFor": "conductores que usan navegación o móvil durante trayectos largos.",
+      "pros": [
+        "Ocupa muy poco",
+        "Útil para navegación y viajes",
+        "Puede cargar varios dispositivos según modelo"
+      ],
+      "cons": [
+        "La potencia depende de la toma del coche",
+        "Comprueba el cable adecuado"
+      ]
+    }
+  },
+  {
+    "slug": "medidor-neumaticos",
+    "category": "Motor",
+    "icon": "◉",
+    "badge": "Mantenimiento",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=medidor+presion+neumaticos+digital&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Medidor digital de presión",
+        "brand": null,
+        "imageUrl": "assets/products/medidor-neumaticos.svg",
+        "features": [
+          "Pequeño y fácil de guardar",
+          "Lectura rápida",
+          "Útil antes de viajes largos",
+          "Selección pensada para conductores que quieren revisar presión sin depender de una gasolinera."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Medidor digital de presión"
+          },
+          {
+            "label": "Categoría",
+            "value": "Motor"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "conductores que quieren revisar presión sin depender de una gasolinera."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Medidor digital de presión",
+      "score": "8,8",
+      "summary": "Una comprobación rápida para vigilar la presión de los neumáticos en casa.",
+      "why": [
+        "Pequeño y fácil de guardar",
+        "Lectura rápida",
+        "Útil antes de viajes largos"
+      ],
+      "bestFor": "conductores que quieren revisar presión sin depender de una gasolinera.",
+      "pros": [
+        "Pequeño y fácil de guardar",
+        "Lectura rápida",
+        "Útil antes de viajes largos"
+      ],
+      "cons": [
+        "Debe usarse con neumáticos fríos para comparar bien",
+        "Conviene contrastar unidades y precisión"
+      ]
+    }
+  },
+  {
+    "slug": "bandas-elasticas",
+    "category": "Deporte",
+    "icon": "〰",
+    "badge": "Entrena donde sea",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=bandas+elasticas+resistencia+fitness&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Bandas elásticas de entrenamiento",
+        "brand": null,
+        "imageUrl": "assets/products/bandas-elasticas.svg",
+        "features": [
+          "Ocupan poquísimo",
+          "Muchos ejercicios posibles",
+          "Fáciles de llevar de viaje",
+          "Selección pensada para entrenamientos en casa, movilidad y calentamiento."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Bandas elásticas de entrenamiento"
+          },
+          {
+            "label": "Categoría",
+            "value": "Deporte"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "entrenamientos en casa, movilidad y calentamiento."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Bandas elásticas de entrenamiento",
+      "score": "9,0",
+      "summary": "Entrenamiento portátil para fuerza, movilidad y activación en casi cualquier lugar.",
+      "why": [
+        "Ocupan poquísimo",
+        "Muchos ejercicios posibles",
+        "Fáciles de llevar de viaje"
+      ],
+      "bestFor": "entrenamientos en casa, movilidad y calentamiento.",
+      "pros": [
+        "Ocupan poquísimo",
+        "Muchos ejercicios posibles",
+        "Fáciles de llevar de viaje"
+      ],
+      "cons": [
+        "La resistencia varía mucho entre packs",
+        "Revisa desgaste antes de usar"
+      ]
+    }
+  },
+  {
+    "slug": "foam-roller",
+    "category": "Deporte",
+    "icon": "◍",
+    "badge": "Recuperación",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=foam+roller+rodillo+masaje+muscular&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Rodillo de espuma",
+        "brand": null,
+        "imageUrl": "assets/products/foam-roller.svg",
+        "features": [
+          "Fácil de usar en casa",
+          "Útil para movilidad",
+          "No necesita batería ni accesorios",
+          "Selección pensada para personas que quieren trabajar movilidad y descarga muscular."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Rodillo de espuma"
+          },
+          {
+            "label": "Categoría",
+            "value": "Deporte"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "personas que quieren trabajar movilidad y descarga muscular."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Rodillo de espuma",
+      "score": "8,8",
+      "summary": "Complemento sencillo para movilidad y recuperación tras entrenamientos.",
+      "why": [
+        "Fácil de usar en casa",
+        "Útil para movilidad",
+        "No necesita batería ni accesorios"
+      ],
+      "bestFor": "personas que quieren trabajar movilidad y descarga muscular.",
+      "pros": [
+        "Fácil de usar en casa",
+        "Útil para movilidad",
+        "No necesita batería ni accesorios"
+      ],
+      "cons": [
+        "Puede resultar intenso al principio",
+        "No sustituye atención profesional si hay lesión"
+      ]
+    }
+  },
+  {
+    "slug": "botella-deportiva",
+    "category": "Deporte",
+    "icon": "💧",
+    "badge": "Día a día",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=botella+deportiva+gimnasio+1+litro&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Botella deportiva reutilizable",
+        "brand": null,
+        "imageUrl": "assets/products/botella-deportiva.svg",
+        "features": [
+          "Reutilizable",
+          "Fácil de transportar",
+          "Útil dentro y fuera del gimnasio",
+          "Selección pensada para quien quiere una botella resistente para entrenar o estudiar."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Botella deportiva reutilizable"
+          },
+          {
+            "label": "Categoría",
+            "value": "Deporte"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien quiere una botella resistente para entrenar o estudiar."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Botella deportiva reutilizable",
+      "score": "8,7",
+      "summary": "Una forma simple de llevar agua al gimnasio, pista o universidad.",
+      "why": [
+        "Reutilizable",
+        "Fácil de transportar",
+        "Útil dentro y fuera del gimnasio"
+      ],
+      "bestFor": "quien quiere una botella resistente para entrenar o estudiar.",
+      "pros": [
+        "Reutilizable",
+        "Fácil de transportar",
+        "Útil dentro y fuera del gimnasio"
+      ],
+      "cons": [
+        "Revisa que cierre bien antes de llevarla en mochila",
+        "El tamaño ideal depende del uso"
+      ]
+    }
+  },
+  {
+    "slug": "bascula-inteligente",
+    "category": "Deporte",
+    "icon": "◫",
+    "badge": "Seguimiento",
+    "amazon": {
+      "marketplace": "amazon.es",
+      "associateTag": "mepillo-21",
+      "asin": null,
+      "directUrl": "https://www.amazon.es/s?k=bascula+inteligente+bluetooth&tag=mepillo-21",
+      "catalog": {
+        "source": "mepillo-editorial-seed",
+        "title": "Báscula inteligente",
+        "brand": null,
+        "imageUrl": "assets/products/bascula-inteligente.svg",
+        "features": [
+          "Historial cómodo en app",
+          "Fácil de usar",
+          "Útil para observar tendencias",
+          "Selección pensada para quien quiere registrar tendencias de peso con comodidad."
+        ],
+        "specifications": [
+          {
+            "label": "Tipo",
+            "value": "Báscula inteligente"
+          },
+          {
+            "label": "Categoría",
+            "value": "Deporte"
+          },
+          {
+            "label": "Uso recomendado",
+            "value": "quien quiere registrar tendencias de peso con comodidad."
+          },
+          {
+            "label": "Marketplace",
+            "value": "Amazon.es"
+          }
+        ],
+        "lastUpdated": null
+      }
+    },
+    "editorial": {
+      "displayName": "Báscula inteligente",
+      "score": "8,9",
+      "summary": "Registra el peso y tendencias desde el móvil para tener una referencia constante.",
+      "why": [
+        "Historial cómodo en app",
+        "Fácil de usar",
+        "Útil para observar tendencias"
+      ],
+      "bestFor": "quien quiere registrar tendencias de peso con comodidad.",
+      "pros": [
+        "Historial cómodo en app",
+        "Fácil de usar",
+        "Útil para observar tendencias"
+      ],
+      "cons": [
+        "Las métricas corporales son estimaciones",
+        "No debe sustituir mediciones clínicas"
       ]
     }
   }

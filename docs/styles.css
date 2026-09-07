@@ -24,3 +24,17 @@ img{max-width:100%}
 .product-image img,.top-pick-image img,.detail-visual img,.visual-card img{font-size:0;color:transparent}
 .detail-visual img{min-height:320px;background:#f7f8fb}
 @media(max-width:760px){.detail-visual img{min-height:220px}}
+
+/* ===== MePillo v10 — product page polish ===== */
+.product-page.section{padding-top:64px;padding-bottom:54px}
+.detail-cta-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:20px 0 16px}
+.detail-cta-row .detail-buy{margin:0;min-width:210px}
+.detail-cta-row>span{font-size:11px;line-height:1.45;color:#98a2b3;max-width:190px}
+.detail-copy .affiliate-note{margin-top:14px;font-size:10px;line-height:1.5;color:#98a2b3}
+.related-section{padding-top:62px;padding-bottom:72px}
+.related-grid{grid-template-columns:repeat(4,minmax(0,1fr));align-items:stretch}
+.related-grid .product-card{height:100%}
+.related-grid .product-body{min-height:310px}
+@media(max-width:980px){.related-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.product-page.section{padding-top:42px;padding-bottom:42px}.detail-cta-row{align-items:stretch;flex-direction:column}.detail-cta-row .detail-buy{width:100%}.detail-cta-row>span{max-width:none}.related-section{padding-top:48px;padding-bottom:56px}}
+@media(max-width:560px){.related-grid{grid-template-columns:1fr}}

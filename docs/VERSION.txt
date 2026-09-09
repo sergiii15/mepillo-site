@@ -1,5 +1,2 @@
-MePillo V12
-- Textos revisados y más naturales
-- Todos los enlaces de Amazon incluyen tag=mepillo-21
-- Protección adicional para futuros enlaces directos a Amazon.es
-- UTF-8 verificado
+MePillo V13
+Humanized copy, unified navigation and direct affiliate links.

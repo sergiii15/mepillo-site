@@ -1,34 +1,46 @@
-MEPILLO - AUTOMATIZACION
+# MePillo — Firebase Hosting + estructura preparada para Amazon Creators API
 
-Pon estos 4 archivos en:
-C:\Users\sergi\Desktop\mepillo-site\
+## Qué incluye esta versión
+- Los 14 productos siguen enlazados a sus URLs de afiliado de Amazon.es.
+- Cada producto separa ahora dos bloques de datos:
+  - `amazon`: ASIN, marketplace, enlace de afiliado y catálogo que en el futuro vendrá de Creators API.
+  - `editorial`: puntuación, resumen, motivos, pros y contenido propio de MePillo.
+- `amazon-provider.js` actúa como capa intermedia. Hoy usa datos semilla; después podrá consultar un backend seguro.
+- Las fichas muestran zonas preparadas para imagen oficial, título, marca, características y especificaciones.
+- Nunca se deben incluir credenciales de Creators API en `public/`.
 
-A partir de ahora:
+## ASIN
+Se han identificado los ASIN que podían resolverse de los enlaces actuales. Los productos cuyo enlace corto no permitió resolver el destino automáticamente conservan `asin: null` y la ficha muestra “Pendiente”. Cuando tengamos el ASIN o la API, solo hay que completar ese campo.
 
-1) Cuando ChatGPT te prepare una nueva actualizacion:
-   - Descarga el ZIP.
-   - NO lo descomprimas.
-   - Dejelo en la carpeta Descargas.
-   - El ZIP debe llamarse "mepillo-public-...zip".
+## Activar Creators API en el futuro
+En `public/amazon-provider.js` cambia:
+`API_MODE: 'seed'`
+por:
+`API_MODE: 'backend'`
 
-2) Haz doble clic en:
-   ACTUALIZAR-MEPILLO.bat
+y configura `AMAZON_API_ENDPOINT` para apuntar a un backend (por ejemplo, Firebase Functions/Cloud Run) que use las credenciales de Amazon de forma privada.
 
-El actualizador:
-- busca automaticamente el ZIP mas reciente en Descargas,
-- crea una copia de seguridad de tu carpeta public,
-- descomprime la actualizacion,
-- reemplaza automaticamente public,
-- y te pregunta si quieres abrir la web local.
+El backend debería devolver un JSON normalizado como:
+```json
+{
+  "title": "Título devuelto por Amazon",
+  "brand": "Marca",
+  "imageUrl": "https://...",
+  "features": ["Característica 1", "Característica 2"],
+  "specifications": [
+    {"label": "Color", "value": "Negro"},
+    {"label": "Modelo", "value": "..."}
+  ],
+  "lastUpdated": "2026-09-06T00:00:00Z"
+}
+```
 
-Para probar la web sin actualizar:
-DOBLE CLIC -> VER-MEPILLO.bat
+## Probar en local
+```powershell
+firebase.cmd serve --only hosting
+```
 
-Para publicarla en Firebase:
-DOBLE CLIC -> PUBLICAR-MEPILLO.bat
-
-Carpeta fija del proyecto:
-C:\Users\sergi\Desktop\mepillo-site
-
-IMPORTANTE:
-No borres firebase.json ni .firebaserc.
+## Publicar
+```powershell
+firebase.cmd deploy --only hosting
+```

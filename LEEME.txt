@@ -1,46 +1,75 @@
-# MePillo — Firebase Hosting + estructura preparada para Amazon Creators API
+# MePillo — Plataforma de recomendaciones y productos de afiliación
 
-## Qué incluye esta versión
-- Los 14 productos siguen enlazados a sus URLs de afiliado de Amazon.es.
-- Cada producto separa ahora dos bloques de datos:
-  - `amazon`: ASIN, marketplace, enlace de afiliado y catálogo que en el futuro vendrá de Creators API.
-  - `editorial`: puntuación, resumen, motivos, pros y contenido propio de MePillo.
-- `amazon-provider.js` actúa como capa intermedia. Hoy usa datos semilla; después podrá consultar un backend seguro.
-- Las fichas muestran zonas preparadas para imagen oficial, título, marca, características y especificaciones.
-- Nunca se deben incluir credenciales de Creators API en `public/`.
+**Una plataforma web que ayuda a los usuarios a descubrir productos útiles mediante recomendaciones seleccionadas, valoraciones y análisis detallados.**
 
-## ASIN
-Se han identificado los ASIN que podían resolverse de los enlaces actuales. Los productos cuyo enlace corto no permitió resolver el destino automáticamente conservan `asin: null` y la ficha muestra “Pendiente”. Cuando tengamos el ASIN o la API, solo hay que completar ese campo.
+[**Visitar página web**](https://mepillo-20af5.web.app) | [**Repositorio GitHub**](https://github.com/sergiii15/mepillo-site)
 
-## Activar Creators API en el futuro
-En `public/amazon-provider.js` cambia:
-`API_MODE: 'seed'`
-por:
-`API_MODE: 'backend'`
+## Descripción del proyecto
 
-y configura `AMAZON_API_ENDPOINT` para apuntar a un backend (por ejemplo, Firebase Functions/Cloud Run) que use las credenciales de Amazon de forma privada.
+MePillo es una plataforma web de recomendaciones de productos disponibles en Amazon, diseñada para ayudar a los usuarios a tomar mejores decisiones de compra.
 
-El backend debería devolver un JSON normalizado como:
-```json
-{
-  "title": "Título devuelto por Amazon",
-  "brand": "Marca",
-  "imageUrl": "https://...",
-  "features": ["Característica 1", "Característica 2"],
-  "specifications": [
-    {"label": "Color", "value": "Negro"},
-    {"label": "Modelo", "value": "..."}
-  ],
-  "lastUpdated": "2026-09-06T00:00:00Z"
-}
-```
+La página reúne productos de diferentes categorías y ofrece valoraciones editoriales, características técnicas, ventajas, desventajas y recomendaciones relacionadas.
 
-## Probar en local
-```powershell
-firebase.cmd serve --only hosting
-```
+Desarrollé MePillo como un proyecto independiente que combina mis conocimientos de desarrollo web con un modelo de negocio digital basado en el marketing de afiliados.
 
-## Publicar
-```powershell
-firebase.cmd deploy --only hosting
-```
+## Funcionalidades principales
+
+- **Catálogo de productos:** Productos organizados en categorías como tecnología, gaming, hogar, deporte y motor.
+- **Buscador:** Permite encontrar productos y explorar recomendaciones.
+- **Ranking de productos:** Sección Top MePillo con los productos mejor valorados.
+- **Análisis detallados:** Fichas con información técnica, puntuaciones, ventajas y aspectos que conviene tener en cuenta.
+- **Enlaces de afiliados de Amazon:** Acceso a productos de Amazon mediante enlaces que pueden generar comisiones por compras válidas.
+- **Diseño responsive:** Interfaz adaptada a ordenadores, tabletas y dispositivos móviles.
+- **Productos relacionados:** Recomendaciones adicionales dentro de las fichas.
+- **Transparencia:** Avisos sobre la utilización de enlaces de afiliados.
+
+## Tecnologías utilizadas
+
+- **Desarrollo frontend:** Diseño de interfaces web e interacción con el usuario.
+- **Firebase Hosting:** Publicación y alojamiento de la página web.
+- **Git y GitHub:** Control de versiones y gestión del código fuente.
+- **Marketing de afiliados:** Integración de un modelo de monetización basado en comisiones.
+
+## Capturas de pantalla
+
+### Página principal
+
+![Página principal de MePillo](screenshots/01-home.png)
+
+### Productos mejor valorados
+
+![Top MePillo](screenshots/02-top-products.png)
+
+### Análisis de producto
+
+![Ficha de producto](screenshots/03-product-details.png)
+
+## Cómo funciona
+
+1. El usuario accede a MePillo y explora los productos disponibles.
+2. Consulta las valoraciones, características y recomendaciones.
+3. Selecciona el producto que mejor se adapta a sus necesidades.
+4. Puede acceder a Amazon mediante un enlace de afiliado para realizar la compra.
+5. Si la compra cumple los requisitos del programa de afiliados, puede generar una comisión.
+
+## Objetivos del proyecto
+
+- Desarrollar una plataforma web funcional y accesible.
+- Crear una interfaz moderna y adaptable a diferentes dispositivos.
+- Organizar información de productos de forma clara y sencilla.
+- Mejorar la experiencia del usuario durante la búsqueda de productos.
+- Integrar un modelo de negocio digital basado en afiliación.
+- Aplicar conocimientos de desarrollo web a un proyecto real.
+
+## Futuras mejoras
+
+- Actualización automática de productos mediante APIs compatibles.
+- Filtros de búsqueda y comparaciones avanzadas.
+- Ampliación del catálogo de productos.
+- Análisis de tráfico e interacción de los usuarios.
+
+## Página web
+
+**Visitar MePillo:** https://mepillo-20af5.web.app
+
+*Proyecto independiente de desarrollo web y marketing de afiliados.*

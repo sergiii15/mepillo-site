@@ -1,34 +1,34 @@
-# MePillo — Affiliate Product Discovery Website
+# MePillo — Affiliate Product Discovery Platform
 
-**A responsive product discovery platform that helps users find useful products through curated recommendations and detailed reviews.**
+**A responsive web platform that helps users discover useful products through curated recommendations, editorial ratings, and detailed product reviews.**
 
 [**Live Website**](https://mepillo-20af5.web.app) | [**GitHub Repository**](https://github.com/sergiii15/mepillo-site)
 
 ## Project Overview
 
-MePillo is a web platform that helps users discover and compare products available on Amazon.
+MePillo is a product recommendation website designed to help users make informed purchasing decisions when shopping on Amazon.
 
-The website combines curated product selections, editorial ratings, detailed product information, and affiliate links to simplify online shopping decisions.
+The platform features products from different categories, providing editorial ratings, technical specifications, advantages, limitations, and related recommendations.
 
-I developed MePillo as an independent web project that combines software development with a real-world digital business model.
+I developed MePillo as an independent project that combines my web development skills with a real-world digital business model based on affiliate marketing.
 
 ## Key Features
 
-- **Product Catalog:** Browse curated products across categories such as technology, gaming, home, sports, and automotive.
-- **Product Search:** Find products and explore recommendations.
-- **Product Rankings:** Discover highly rated products through the Top MePillo selection.
-- **Detailed Product Pages:** View product specifications, ratings, advantages, limitations, and recommendations.
-- **Amazon Affiliate Integration:** Access Amazon product listings through affiliate links.
-- **Responsive Design:** Browse the website on desktop and mobile devices.
-- **Related Recommendations:** Discover additional products from individual product pages.
-- **Affiliate Disclosure:** Inform visitors when purchasing links may generate commissions.
+- **Product Catalog:** Browse products organized into categories such as technology, gaming, home, sports, and automotive.
+- **Search Functionality:** Find products and explore recommendations.
+- **Product Rankings:** Discover highly rated products through the Top MePillo section.
+- **Detailed Product Reviews:** Access product specifications, ratings, advantages, and limitations.
+- **Amazon Affiliate Links:** Visit Amazon product listings through affiliate links that may generate commissions from qualifying purchases.
+- **Responsive Web Design:** Optimized interface for desktop, tablet, and mobile devices.
+- **Related Products:** Explore additional recommendations on individual product pages.
+- **Affiliate Disclosure:** Clear information about the use of affiliate links.
 
-## Technology and Development
+## Technologies Used
 
-- **Frontend Development:** Responsive website layout and interactive product pages.
-- **Firebase Hosting:** Cloud deployment and public website hosting.
-- **Git & GitHub:** Source code management and version control.
-- **Affiliate Marketing:** Integration of a commission-based business model.
+- **Frontend Development:** Responsive web interfaces and interactive product pages.
+- **Firebase Hosting:** Cloud hosting and deployment.
+- **Git & GitHub:** Version control and source code management.
+- **Affiliate Marketing:** Integration of a commission-based monetization model.
 
 ## Screenshots
 
@@ -40,31 +40,36 @@ I developed MePillo as an independent web project that combines software develop
 
 ![Top MePillo](screenshots/02-top-products.png)
 
-### Product Details and Affiliate Links
+### Product Details
 
 ![Product Details](screenshots/03-product-details.png)
 
 ## How It Works
 
-1. Users visit MePillo and browse products or categories.
-2. They explore editorial ratings and detailed product information.
+1. Users visit MePillo and browse available products.
+2. They explore editorial ratings, product specifications, and recommendations.
 3. They select products that match their needs.
 4. They can follow affiliate links to Amazon to complete a purchase.
-5. Eligible purchases may generate affiliate commissions.
+5. Qualifying purchases may generate affiliate commissions.
 
 ## Project Goals
 
-The main goals of this project were to develop a user-friendly product discovery website, organize product information clearly, implement responsive layouts, and explore how software development can support a digital business.
+- Develop a functional and accessible web platform.
+- Create a modern, responsive user interface.
+- Organize product information clearly.
+- Improve the user experience when searching for products.
+- Integrate an affiliate-based digital business model.
+- Apply web development skills to a real-world project.
 
 ## Future Improvements
 
 - Automated product information updates through supported APIs.
-- Advanced product filtering and comparison.
+- Advanced product filtering and comparison tools.
 - Expanded product categories and recommendations.
-- Analytics to better understand user engagement.
+- Website analytics to understand user engagement.
 
 ## Live Website
 
 **Visit MePillo:** https://mepillo-20af5.web.app
 
-*Developed as an independent web development and affiliate marketing project.*
+*Independent web development and affiliate marketing project.*
